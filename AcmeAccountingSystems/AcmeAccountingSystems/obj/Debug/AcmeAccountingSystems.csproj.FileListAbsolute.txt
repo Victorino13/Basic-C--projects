@@ -1,0 +1,6 @@
+C:\Users\vppal\Desktop\Basic-C--projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe.config
+C:\Users\vppal\Desktop\Basic-C--projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe
+C:\Users\vppal\Desktop\Basic-C--projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.pdb
+C:\Users\vppal\Desktop\Basic-C--projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.CoreCompileInputs.cache
+C:\Users\vppal\Desktop\Basic-C--projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.exe
+C:\Users\vppal\Desktop\Basic-C--projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.pdb
