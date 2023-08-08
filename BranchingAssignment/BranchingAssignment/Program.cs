@@ -18,6 +18,8 @@ namespace BranchingAssignment
             if (packageWeight > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day!");
+                Console.ReadLine();
+                return;
             }
             // This block of code ask the customer to enter Width, Length, Height of the package and determines if allowed dimension is met.
             Console.WriteLine("Please enter package width");
@@ -30,6 +32,8 @@ namespace BranchingAssignment
             if (Dimension > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package express. Have a good day!");
+                Console.ReadLine();
+                return;
             }
             // This block of code computes and displays the qoute based on the customer's entered package information
             int totalDimension = (Convert.ToInt32(packageWidth * packageLength * packageLength));
