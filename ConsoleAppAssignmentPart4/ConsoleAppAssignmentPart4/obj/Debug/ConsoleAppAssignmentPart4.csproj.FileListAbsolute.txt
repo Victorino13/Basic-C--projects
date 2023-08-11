@@ -1,0 +1,6 @@
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart4\ConsoleAppAssignmentPart4\bin\Debug\ConsoleAppAssignmentPart4.exe.config
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart4\ConsoleAppAssignmentPart4\bin\Debug\ConsoleAppAssignmentPart4.exe
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart4\ConsoleAppAssignmentPart4\bin\Debug\ConsoleAppAssignmentPart4.pdb
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart4\ConsoleAppAssignmentPart4\obj\Debug\ConsoleAppAssignmentPart4.csproj.CoreCompileInputs.cache
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart4\ConsoleAppAssignmentPart4\obj\Debug\ConsoleAppAssignmentPart4.exe
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart4\ConsoleAppAssignmentPart4\obj\Debug\ConsoleAppAssignmentPart4.pdb

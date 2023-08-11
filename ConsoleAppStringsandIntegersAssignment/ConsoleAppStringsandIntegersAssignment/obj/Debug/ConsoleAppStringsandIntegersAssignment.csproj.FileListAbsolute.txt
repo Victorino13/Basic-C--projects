@@ -1,0 +1,7 @@
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppStringsandIntegersAssignment\ConsoleAppStringsandIntegersAssignment\bin\Debug\ConsoleAppStringsandIntegersAssignment.exe.config
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppStringsandIntegersAssignment\ConsoleAppStringsandIntegersAssignment\bin\Debug\ConsoleAppStringsandIntegersAssignment.exe
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppStringsandIntegersAssignment\ConsoleAppStringsandIntegersAssignment\bin\Debug\ConsoleAppStringsandIntegersAssignment.pdb
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppStringsandIntegersAssignment\ConsoleAppStringsandIntegersAssignment\obj\Debug\ConsoleAppStringsandIntegersAssignment.csproj.AssemblyReference.cache
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppStringsandIntegersAssignment\ConsoleAppStringsandIntegersAssignment\obj\Debug\ConsoleAppStringsandIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppStringsandIntegersAssignment\ConsoleAppStringsandIntegersAssignment\obj\Debug\ConsoleAppStringsandIntegersAssignment.exe
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppStringsandIntegersAssignment\ConsoleAppStringsandIntegersAssignment\obj\Debug\ConsoleAppStringsandIntegersAssignment.pdb

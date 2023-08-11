@@ -1,0 +1,7 @@
+C:\Users\vppal\Desktop\Basic-C--projects\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\MethodClassAssignmentSubmission.csproj.AssemblyReference.cache
+C:\Users\vppal\Desktop\Basic-C--projects\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\MethodClassAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\vppal\Desktop\Basic-C--projects\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\MethodClassAssignmentSubmission.exe.config
+C:\Users\vppal\Desktop\Basic-C--projects\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\MethodClassAssignmentSubmission.exe
+C:\Users\vppal\Desktop\Basic-C--projects\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\MethodClassAssignmentSubmission.pdb
+C:\Users\vppal\Desktop\Basic-C--projects\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\MethodClassAssignmentSubmission.exe
+C:\Users\vppal\Desktop\Basic-C--projects\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\MethodClassAssignmentSubmission.pdb

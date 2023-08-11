@@ -1,0 +1,7 @@
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart5\ConsoleAppAssignmentPart5\bin\Debug\ConsoleAppAssignmentPart5.exe.config
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart5\ConsoleAppAssignmentPart5\bin\Debug\ConsoleAppAssignmentPart5.exe
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart5\ConsoleAppAssignmentPart5\bin\Debug\ConsoleAppAssignmentPart5.pdb
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart5\ConsoleAppAssignmentPart5\obj\Debug\ConsoleAppAssignmentPart5.csproj.AssemblyReference.cache
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart5\ConsoleAppAssignmentPart5\obj\Debug\ConsoleAppAssignmentPart5.csproj.CoreCompileInputs.cache
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart5\ConsoleAppAssignmentPart5\obj\Debug\ConsoleAppAssignmentPart5.exe
+C:\Users\vppal\Desktop\Basic-C--projects\ConsoleAppAssignmentPart5\ConsoleAppAssignmentPart5\obj\Debug\ConsoleAppAssignmentPart5.pdb
