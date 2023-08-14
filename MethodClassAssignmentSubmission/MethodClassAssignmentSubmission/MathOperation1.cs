@@ -8,11 +8,9 @@ namespace MethodClassAssignmentSubmission
 {
     public class MathOperation1
     {
-        public void MathOperation()
+        public void MathOperation(int a, int b)
         {
-            int a = 8 * 8;
-            int b = 42;
-            Console.WriteLine($"eight times eight {a} fourty two {b}");
+            Console.WriteLine(b + " eight times first integer = " + a);
             return;
         }
     }
