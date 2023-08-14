@@ -21,7 +21,7 @@ namespace MethodClassAssignmentSubmission
             mathOp.MathOperation(num1, num2);
             Console.WriteLine();
             //Call the method in class, specifying the parameters by name
-            mathOp.MathOperation(num1, num2);
+            mathOp.MathOperation(num1 = 8, num2 = 12);
             Console.WriteLine("num1 is 8 times first integer = " + num1 + " and num2 is = " + num2);
             Console.ReadLine();
         }
