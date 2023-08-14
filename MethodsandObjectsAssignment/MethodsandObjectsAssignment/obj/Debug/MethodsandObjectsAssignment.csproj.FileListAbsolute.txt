@@ -1,0 +1,7 @@
+C:\Users\vppal\Desktop\Basic-C--projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\MethodsandObjectsAssignment.exe.config
+C:\Users\vppal\Desktop\Basic-C--projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\MethodsandObjectsAssignment.exe
+C:\Users\vppal\Desktop\Basic-C--projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\MethodsandObjectsAssignment.pdb
+C:\Users\vppal\Desktop\Basic-C--projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\MethodsandObjectsAssignment.csproj.AssemblyReference.cache
+C:\Users\vppal\Desktop\Basic-C--projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\MethodsandObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\vppal\Desktop\Basic-C--projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\MethodsandObjectsAssignment.exe
+C:\Users\vppal\Desktop\Basic-C--projects\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\MethodsandObjectsAssignment.pdb

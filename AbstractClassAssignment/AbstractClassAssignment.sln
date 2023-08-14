@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33920.266
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodClassAssignmentSubmission", "MethodClassAssignmentSubmission\MethodClassAssignmentSubmission.csproj", "{8A07B792-D3D0-4E26-A5F7-38524808EF26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassAssignment", "AbstractClassAssignment\AbstractClassAssignment.csproj", "{DF7260C3-5F99-4D36-98BA-AE63729F4B7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8A07B792-D3D0-4E26-A5F7-38524808EF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8A07B792-D3D0-4E26-A5F7-38524808EF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8A07B792-D3D0-4E26-A5F7-38524808EF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8A07B792-D3D0-4E26-A5F7-38524808EF26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7260C3-5F99-4D36-98BA-AE63729F4B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7260C3-5F99-4D36-98BA-AE63729F4B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7260C3-5F99-4D36-98BA-AE63729F4B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7260C3-5F99-4D36-98BA-AE63729F4B7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {385081C5-39FE-4929-85CD-E2E685051237}
+		SolutionGuid = {7DD28A51-92D6-4CD4-A766-0BF17291790B}
 	EndGlobalSection
 EndGlobal

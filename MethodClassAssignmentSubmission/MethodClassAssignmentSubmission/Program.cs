@@ -9,15 +9,12 @@ namespace MethodClassAssignmentSubmission
     class Program
     {
         static void Main(string[] args)
-        { 
-            //Instantiate Class
-            MathOperation1 math1 = new MathOperation1();
-            //Call the method in the class, passing two numbers??????
-            Console.WriteLine(math1.MathOp());
-            //Call the method in the class, specifying the parameters by name ??????
-            string seventyTwo = Convert.ToString(math1.MathOp()) ;
-            string nine = Convert.ToString(math1.MathOp());
-            Console.WriteLine(seventyTwo + nine);
+        {
+            //Instantiate class
+            MathOperation1 mathOp = new MathOperation1();
+            //Call the method in class, passing two numbers
+            //Call the method in class, specifying the parameters by name
+            mathOp.MathOperation();
             Console.ReadLine();
         }
     }

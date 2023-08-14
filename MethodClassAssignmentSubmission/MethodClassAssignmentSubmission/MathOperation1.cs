@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace MethodClassAssignmentSubmission
 {
-    //Create a class
-    class MathOperation1
+    public class MathOperation1
     {
-        //Create a method that takes two integers as parameters. Do a math operation on first integer and display the second integer.
-        public int MathOp(int a = 8 * 9, int b = 9)
+        public void MathOperation()
         {
-            // ????????
-            return (a) + (b);  
+            int a = 8 * 8;
+            int b = 42;
+            Console.WriteLine($"eight times eight {a} fourty two {b}");
+            return;
         }
     }
 }
