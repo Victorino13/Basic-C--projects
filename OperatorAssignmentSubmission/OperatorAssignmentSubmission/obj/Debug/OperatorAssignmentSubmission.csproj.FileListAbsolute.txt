@@ -1,0 +1,7 @@
+C:\Users\vppal\Desktop\Basic-C--projects\OperatorAssignmentSubmission\OperatorAssignmentSubmission\bin\Debug\OperatorAssignmentSubmission.exe.config
+C:\Users\vppal\Desktop\Basic-C--projects\OperatorAssignmentSubmission\OperatorAssignmentSubmission\bin\Debug\OperatorAssignmentSubmission.exe
+C:\Users\vppal\Desktop\Basic-C--projects\OperatorAssignmentSubmission\OperatorAssignmentSubmission\bin\Debug\OperatorAssignmentSubmission.pdb
+C:\Users\vppal\Desktop\Basic-C--projects\OperatorAssignmentSubmission\OperatorAssignmentSubmission\obj\Debug\OperatorAssignmentSubmission.csproj.AssemblyReference.cache
+C:\Users\vppal\Desktop\Basic-C--projects\OperatorAssignmentSubmission\OperatorAssignmentSubmission\obj\Debug\OperatorAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\vppal\Desktop\Basic-C--projects\OperatorAssignmentSubmission\OperatorAssignmentSubmission\obj\Debug\OperatorAssignmentSubmission.exe
+C:\Users\vppal\Desktop\Basic-C--projects\OperatorAssignmentSubmission\OperatorAssignmentSubmission\obj\Debug\OperatorAssignmentSubmission.pdb
