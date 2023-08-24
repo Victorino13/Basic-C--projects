@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressionAssignment", "LambdaExpressionAssignment\LambdaExpressionAssignment.csproj", "{E4E429BD-82C6-44D5-B56E-6709C09DF97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E429BD-82C6-44D5-B56E-6709C09DF97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E429BD-82C6-44D5-B56E-6709C09DF97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E429BD-82C6-44D5-B56E-6709C09DF97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E429BD-82C6-44D5-B56E-6709C09DF97D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F2E808D-EAC1-40DE-B237-E7BA732E8943}
+	EndGlobalSection
+EndGlobal
