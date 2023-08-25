@@ -12,6 +12,10 @@ on policy information and calculates a qoute based on business logic.
 
 This is an empty web application project for the purpose of deploying in MS Azure.
 
+<a href="https://github.com/Victorino13/Basic-C--projects/tree/main/CodeFirstNewDatabaseStudent">•Code First Entity Framework Console App<br>
+
+This is an console app created using Code First with Entity Framework. 
+
 
 # Assignments
 
