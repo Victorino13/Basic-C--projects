@@ -1,0 +1,12 @@
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\bin\Debug\CodeFirstNewDatabaseStudent.exe.config
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\bin\Debug\CodeFirstNewDatabaseStudent.exe
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\bin\Debug\CodeFirstNewDatabaseStudent.pdb
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\bin\Debug\EntityFramework.dll
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\bin\Debug\EntityFramework.xml
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\obj\Debug\CodeFirstNewDatabaseStudent.csproj.AssemblyReference.cache
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\obj\Debug\CodeFirstNewDatabaseStudent.csproj.CoreCompileInputs.cache
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\obj\Debug\CodeFirstNewDatabaseStudent.csproj.CopyComplete
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\obj\Debug\CodeFirstNewDatabaseStudent.exe
+C:\Users\vppal\Desktop\Basic-C--projects\CodeFirstNewDatabaseStudent\CodeFirstNewDatabaseStudent\obj\Debug\CodeFirstNewDatabaseStudent.pdb
